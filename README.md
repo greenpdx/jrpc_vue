@@ -1,6 +1,6 @@
 # jrpc_vue
 
-> Json rpc frontend
+> ##### Json rpc frontend for <a href=""https://github.com/greenpdx/jrpc">jrpc</a>
 
 The backend is <a href="https://github.com/greenpdx/jsonrpc_diesel">jsonrpc_diesel</a>
 
