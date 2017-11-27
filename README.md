@@ -2,6 +2,8 @@
 
 > Json rpc frontend
 
+The backend is <a href="https://github.com/greenpdx/jsonrpc_diesel">jsonrpc_diesel</a>
+
 ## Build Setup
 
 ``` bash
